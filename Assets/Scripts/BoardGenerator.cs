@@ -13,7 +13,7 @@ public class BoardGenerator : MonoBehaviour
 
     private void Start()
     {
-        GenerateObstacles()
+        GenerateObstacles();
 
     }
 
