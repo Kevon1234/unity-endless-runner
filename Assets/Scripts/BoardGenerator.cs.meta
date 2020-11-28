@@ -3,9 +3,13 @@ guid: a326780b3abf87c41a6ec70848f31c97
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - target: {instanceID: 0}
+  - obstaclePrefab: {fileID: 3754718960401961016, guid: f2870edf7baee3842945c8e88faa4852,
+      type: 3}
+  - obstaclesParent: {instanceID: 0}
   executionOrder: 0
-  icon: {instanceID: 0}
+  icon: {fileID: 3936346786652291628, guid: 0000000000000000d000000000000000, type: 0}
   userData: 
   assetBundleName: 
   assetBundleVariant: 
